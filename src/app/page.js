@@ -6,7 +6,7 @@ export default function Home() {
       <p className="max-w-md text-gray-700">
         Sou estudante de desenvolvimento web apaixonado por tecnologia e criação de aplicações modernas.
         Atualmente estudo React e Next.js enquanto desenvolvo projetos para aprimorar minhas habilidades.
-        Meu objetivo é evoluir como desenvolvedor.
+        Meu objetivo é evoluir como desenvolvedor e programador.
       </p>
     </main>
   );
